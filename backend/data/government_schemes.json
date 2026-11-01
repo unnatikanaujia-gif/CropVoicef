@@ -1,0 +1,156 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "category": "income support",
+    "summary": "Income-support scheme for eligible landholding farmer families. Benefit amount, exclusions and current payment status must be checked on the official portal.",
+    "crops": [],
+    "states": [
+      "all India"
+    ],
+    "keywords": [
+      "income support",
+      "money",
+      "payment",
+      "financial assistance",
+      "cash benefit"
+    ],
+    "official_url": "https://pmkisan.gov.in/",
+    "details_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "crop insurance",
+    "summary": "Crop-insurance programme for notified crops and areas, subject to the current season notification, enrolment window and scheme rules.",
+    "crops": [],
+    "states": [
+      "all India; participation and notified crops vary"
+    ],
+    "keywords": [
+      "insurance",
+      "crop loss",
+      "flood",
+      "drought",
+      "hail",
+      "damaged crop",
+      "natural disaster"
+    ],
+    "official_url": "https://pmfby.gov.in/",
+    "details_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "kcc",
+    "name": "Kisan Credit Card (KCC)",
+    "category": "credit",
+    "summary": "Bank-linked credit facility for eligible farmers' cultivation and related agricultural needs. The bank determines documentation and sanction under applicable rules.",
+    "crops": [],
+    "states": [
+      "all India"
+    ],
+    "keywords": [
+      "loan",
+      "credit",
+      "working capital",
+      "bank loan",
+      "farm loan"
+    ],
+    "official_url": "https://www.myscheme.gov.in/schemes/kcc",
+    "details_url": "https://www.myscheme.gov.in/schemes/kcc"
+  },
+  {
+    "id": "enam",
+    "name": "National Agriculture Market (e-NAM)",
+    "category": "market access",
+    "summary": "Electronic agricultural trading platform connecting participating mandis and market participants. Local mandi participation and registration requirements apply.",
+    "crops": [],
+    "states": [
+      "participating mandis across India"
+    ],
+    "keywords": [
+      "sell crop",
+      "market",
+      "mandi",
+      "buyers",
+      "trading",
+      "price discovery"
+    ],
+    "official_url": "https://www.enam.gov.in/",
+    "details_url": "https://www.enam.gov.in/web/stakeholders-Involved/farmers"
+  },
+  {
+    "id": "soil-health-card",
+    "name": "Soil Health Card",
+    "category": "soil testing",
+    "summary": "Government programme providing soil-test-based information to help farmers make informed nutrient-management decisions. Ask the local agriculture department or soil-testing lab for current availability.",
+    "crops": [],
+    "states": [
+      "India; local service arrangements vary"
+    ],
+    "keywords": [
+      "soil test",
+      "fertilizer",
+      "nutrient",
+      "soil health",
+      "fertility"
+    ],
+    "official_url": "https://soilhealth.dac.gov.in/",
+    "details_url": "https://soilhealth.dac.gov.in/"
+  },
+  {
+    "id": "pmksy",
+    "name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+    "category": "irrigation",
+    "summary": "Umbrella irrigation programme; component availability, subsidy terms and application windows depend on the current component and state implementation.",
+    "crops": [],
+    "states": [
+      "India; component and state implementation vary"
+    ],
+    "keywords": [
+      "irrigation",
+      "drip",
+      "sprinkler",
+      "water saving",
+      "micro irrigation"
+    ],
+    "official_url": "https://pmksy.gov.in/",
+    "details_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "pm-kusum",
+    "name": "PM-KUSUM",
+    "category": "solar energy for agriculture",
+    "summary": "Programme supporting specified solar-energy applications in agriculture. Component, eligibility, subsidy and application windows are state- and tender-dependent; verify current notices.",
+    "crops": [],
+    "states": [
+      "India; implementation and application windows vary by state"
+    ],
+    "keywords": [
+      "solar pump",
+      "solar energy",
+      "electricity",
+      "pump subsidy"
+    ],
+    "official_url": "https://pmkusum.mnre.gov.in/",
+    "details_url": "https://mnre.gov.in/"
+  },
+  {
+    "id": "my-scheme",
+    "name": "myScheme Government Scheme Finder",
+    "category": "scheme discovery portal",
+    "summary": "Official Government of India portal to discover schemes and review eligibility and application details using user-provided profile information.",
+    "crops": [],
+    "states": [
+      "India"
+    ],
+    "keywords": [
+      "eligibility",
+      "all schemes",
+      "government benefits",
+      "which scheme",
+      "schemes for farmers"
+    ],
+    "official_url": "https://www.myscheme.gov.in/",
+    "details_url": "https://www.myscheme.gov.in/"
+  }
+]

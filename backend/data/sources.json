@@ -1,0 +1,243 @@
+{
+  "sources": [
+    {
+      "source_id": "ICAR_PORTAL",
+      "organization": "Indian Council of Agricultural Research (ICAR)",
+      "url": "https://icar.org.in",
+      "description": "National apex body for coordinating, guiding, and managing agricultural research and education in India.",
+      "publication_date": "2024-01-15",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "All India",
+        "Crop Packages of Practices",
+        "Disease & Pest Management",
+        "Soil Health"
+      ]
+    },
+    {
+      "source_id": "TNAU_AGRITECH",
+      "organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+      "url": "https://agritech.tnau.ac.in",
+      "description": "Comprehensive agricultural knowledge portal covering crop production, protection, irrigation, post-harvest, and farm equipment.",
+      "publication_date": "2024-03-20",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "Tamil Nadu",
+        "Paddy",
+        "Cotton",
+        "Tomato",
+        "Chilli",
+        "Groundnut",
+        "Sugarcane"
+      ]
+    },
+    {
+      "source_id": "PJTSAU_PACKAGE",
+      "organization": "Professor Jayashankar Telangana State Agricultural University (PJTSAU)",
+      "url": "https://pjtsau.edu.in",
+      "description": "Official crop production guidelines and Vyavasaya Panchangam advisory for Telangana agro-climatic zones.",
+      "publication_date": "2024-05-10",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "Telangana",
+        "Paddy",
+        "Cotton",
+        "Chilli",
+        "Maize",
+        "Tomato"
+      ]
+    },
+    {
+      "source_id": "ANGRAU_GUIDES",
+      "organization": "Acharya N.G. Ranga Agricultural University (ANGRAU)",
+      "url": "https://angrau.ac.in",
+      "description": "Cultivation recommendations, seed varieties, pest advisories, and fertilizer schedules for Andhra Pradesh.",
+      "publication_date": "2024-04-18",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "Andhra Pradesh",
+        "Paddy",
+        "Chilli",
+        "Cotton",
+        "Groundnut",
+        "Tomato"
+      ]
+    },
+    {
+      "source_id": "UAS_BANGALORE",
+      "organization": "University of Agricultural Sciences, Bangalore (UASB)",
+      "url": "https://uasbangalore.edu.in",
+      "description": "Package of practices for higher yields, dryland horticulture, and water conservation in Karnataka.",
+      "publication_date": "2024-02-28",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "Karnataka",
+        "Tomato",
+        "Paddy",
+        "Maize",
+        "Groundnut",
+        "Onion"
+      ]
+    },
+    {
+      "source_id": "KAU_AGRI_PORTAL",
+      "organization": "Kerala Agricultural University (KAU)",
+      "url": "https://kau.in",
+      "description": "Package of Practices Recommendations (Crops) for high-rainfall tropical zones of Kerala.",
+      "publication_date": "2024-01-30",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "Kerala",
+        "Paddy",
+        "Banana",
+        "Vegetables",
+        "Spices",
+        "Post-Harvest"
+      ]
+    },
+    {
+      "source_id": "AGMARKNET_GOV",
+      "organization": "Agricultural Marketing Information Network, Ministry of Agriculture & Farmers Welfare, GoI",
+      "url": "https://agmarknet.gov.in",
+      "description": "Official portal providing wholesale daily mandi arrival volumes and modal prices across agricultural markets in India.",
+      "publication_date": "2026-10-11",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "All India Mandis",
+        "Daily Commodity Prices"
+      ]
+    },
+    {
+      "source_id": "OPEN_METEO",
+      "organization": "Open-Meteo Weather API",
+      "url": "https://open-meteo.com",
+      "description": "Open-access meteorological forecast provider with high-resolution global weather models and geocoding services.",
+      "publication_date": "2026-10-11",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "Latitude-Longitude Weather Forecasts",
+        "Precipitation Probability",
+        "Temperature"
+      ]
+    },
+    {
+      "source_id": "GOV_PM_KISAN",
+      "organization": "Ministry of Agriculture & Farmers Welfare, Government of India",
+      "url": "https://pmkisan.gov.in",
+      "description": "Official portal for Pradhan Mantri Kisan Samman Nidhi (Direct Income Support).",
+      "publication_date": "2024-06-01",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "All India",
+        "Direct Benefit Transfer"
+      ]
+    },
+    {
+      "source_id": "GOV_PMFBY",
+      "organization": "Ministry of Agriculture & Farmers Welfare, Government of India",
+      "url": "https://pmfby.gov.in",
+      "description": "Official portal for Pradhan Mantri Fasal Bima Yojana (National Crop Insurance).",
+      "publication_date": "2024-05-15",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "All India",
+        "Crop Insurance Schemes",
+        "Claim Timelines"
+      ]
+    },
+    {
+      "source_id": "GOV_PMKSY",
+      "organization": "Department of Agriculture and Farmers Welfare, GoI",
+      "url": "https://pmksy.gov.in",
+      "description": "Official portal for Pradhan Mantri Krishi Sinchayee Yojana (Micro-Irrigation & Water Efficiency).",
+      "publication_date": "2024-02-12",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "All India",
+        "Drip and Sprinkler Subsidies"
+      ]
+    },
+    {
+      "source_id": "GOV_SOIL_HEALTH",
+      "organization": "Department of Agriculture and Farmers Welfare, GoI",
+      "url": "https://soilhealth.dac.gov.in",
+      "description": "National Soil Health Card scheme portal for testing and nutrient recommendation norms.",
+      "publication_date": "2024-03-01",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "All India",
+        "Soil Testing",
+        "NPK & Micronutrients"
+      ]
+    },
+    {
+      "source_id": "GOV_SMAM_AGRI_MACHINERY",
+      "organization": "Mechanization & Technology Division, MoA&FW, GoI",
+      "url": "https://agrimachinery.nic.in",
+      "description": "Sub-Mission on Agricultural Mechanization (SMAM) and Custom Hiring Centres (CHC) portal.",
+      "publication_date": "2024-04-10",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "All India",
+        "Equipment Rental",
+        "Custom Hiring Centres",
+        "Machinery Subsidies"
+      ]
+    },
+    {
+      "source_id": "GOV_ENAM",
+      "organization": "Small Farmers Agribusiness Consortium (SFAC), GoI",
+      "url": "https://enam.gov.in",
+      "description": "National Agriculture Market (e-NAM) for electronic trading and market linkages.",
+      "publication_date": "2024-05-20",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "All India",
+        "Market Linkages",
+        "FPO Sales",
+        "Assayed Bidding"
+      ]
+    },
+    {
+      "source_id": "DAHD_LIVESTOCK",
+      "organization": "Department of Animal Husbandry and Dairying (DAHD), Ministry of Fisheries, Animal Husbandry & Dairying, GoI",
+      "url": "https://dahd.nic.in",
+      "description": "Official central authority on animal husbandry, dairy development, disease prevention, and veterinary care.",
+      "publication_date": "2024-03-15",
+      "retrieval_date": "2026-10-11",
+      "verification_status": "verified",
+      "coverage": [
+        "All India",
+        "Cattle & Buffalo Care",
+        "Feed & Fodder",
+        "Vaccination Protocols"
+      ]
+    },
+    {
+      "source_id": "CROPCARE_NOTES",
+      "organization": "CropCare project disease notes (supplied by the CropVoice developer)",
+      "url": null,
+      "description": "General disease descriptions, symptoms and control notes with no published citation. Contains no doses. Not verified by ICAR, a KVK or a state agricultural university.",
+      "publication_date": null,
+      "retrieval_date": "2026-10-25",
+      "verification_status": "unverified_user_supplied",
+      "coverage": [
+        "Disease descriptions (10 diseases)"
+      ]
+    }
+  ]
+}

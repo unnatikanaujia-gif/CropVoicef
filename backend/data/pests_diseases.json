@@ -1,0 +1,444 @@
+[
+  {
+    "id": "pest_dis_01",
+    "crop": "Tomato",
+    "type": "disease",
+    "name": "Early Blight (Alternaria solani)",
+    "affected_stage": "Vegetative to Fruiting",
+    "symptoms": "Dark brown to black necrotic spots with concentric rings ('target board' appearance) primarily on lower older leaves, leading to yellowing and premature leaf fall.",
+    "possible_causes": [
+      "Fungal pathogen Alternaria solani favored by warm temperatures (24-30°C) and high relative humidity (>80%)",
+      "Nitrogen deficiency mimicking lower leaf yellowing but lacking concentric dark rings"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Verbal symptom descriptions provide preliminary indications. Definitive diagnosis requires physical examination of fungal concentric rings and leaf margins.",
+    "prevention": "Crop rotation with non-solanaceous crops, avoid overhead sprinkler irrigation, maintain proper plant spacing, remove infected lower leaves.",
+    "verified_treatment": {
+      "organic_biological": "Spray Trichoderma harzianum (5g/L) or Neem oil (5ml/L) as preventive measure.",
+      "chemical_recommended": "Spray Mancozeb 75% WP @ 2.0-2.5 g/L or Chlorothalonil 75% WP @ 2.0 g/L. In severe cases, spray Azoxystrobin 23% SC @ 1.0 ml/L.",
+      "safety_instructions": "Wear protective gear during spraying. Observe 5-7 days pre-harvest interval (PHI) before picking tomatoes."
+    },
+    "regional_notes": "Very prevalent in Kolar (Karnataka) and Madanapalle (AP) during monsoon seasons.",
+    "source_id": "TNAU_AGRITECH",
+    "source_url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_diseases_veg_tomato_1.html",
+    "verification_status": "verified"
+  },
+  {
+    "id": "pest_dis_02",
+    "crop": "Tomato",
+    "type": "disease",
+    "name": "Tomato Leaf Curl Virus (ToLCV)",
+    "affected_stage": "Early Vegetative to Flowering",
+    "symptoms": "Upward and downward curling of leaves, puckering, reduced leaf size, prominent yellowing of veins, severe stunting of bushy plant, poor fruit set.",
+    "possible_causes": [
+      "Begomovirus transmitted persistently by Whitefly (Bemisia tabaci)",
+      "Herbicide drift injury or moisture stress causing non-viral curling"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Leaf curling can be caused by whitefly transmission or severe moisture stress. Inspect under-surface of leaves for whiteflies.",
+    "prevention": "Grow resistant/tolerant hybrids (e.g., US-440, ToLCV tolerant lines), install yellow sticky traps (15-20/acre), erect nylon net barriers in nursery.",
+    "verified_treatment": {
+      "organic_biological": "Install yellow sticky traps to monitor whitefly vector; spray Neem Seed Kernel Extract (NSKE 5%) or Neem oil 5ml/L.",
+      "chemical_recommended": "Control vector by spraying Imidacloprid 17.8% SL @ 0.3 ml/L or Acetamiprid 20% SP @ 0.2 g/L or Spiromesifen 22.9% SC @ 1.0 ml/L at first appearance of whiteflies.",
+      "safety_instructions": "Uproot and bury severely virus-infected plants immediately to eliminate infection reservoir."
+    },
+    "regional_notes": "Widespread across Telangana, Andhra Pradesh, Karnataka during dry summer and pre-monsoon periods.",
+    "source_id": "UAS_BANGALORE",
+    "source_url": "https://uasbangalore.edu.in",
+    "verification_status": "verified"
+  },
+  {
+    "id": "pest_dis_03",
+    "crop": "Paddy / Rice",
+    "type": "disease",
+    "name": "Rice Blast (Magnaporthe oryzae)",
+    "affected_stage": "Tillering to Heading (Leaf, Node & Neck Blast)",
+    "symptoms": "Spindle-shaped elliptical lesions with greyish center and dark brown or reddish-brown margins on leaf blades. Neck rot causes panicle breakage and chaffy grains.",
+    "possible_causes": [
+      "Fungal infection Magnaporthe oryzae favored by cool night temperatures (20-24°C), relative humidity >90%, and excess nitrogen fertilizer application"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Confirm spindle-shaped lesions with grey center. Excessive urea application accelerates blast severity.",
+    "prevention": "Avoid excess nitrogen doses; split urea applications into 3 doses. Treat seeds with Tricyclazole 75 WP (2g/kg seed).",
+    "verified_treatment": {
+      "organic_biological": "Pseudomonas fluorescens seed treatment @ 10g/kg and foliar spray @ 2.5kg/ha in 500L water.",
+      "chemical_recommended": "Spray Tricyclazole 75% WP @ 0.6 g/L or Isoprothiolane 40% EC @ 1.5 ml/L or Kasugamycin 3% SL @ 2.0 ml/L.",
+      "safety_instructions": "Spray during calm morning hours when dew dries; do not spray immediately before rainfall."
+    },
+    "regional_notes": "Endemic in Telangana (Warangal, Nalgonda), Andhra Pradesh (Godavari delta) and Cauvery delta (Tamil Nadu).",
+    "source_id": "PJTSAU_PACKAGE",
+    "source_url": "https://pjtsau.edu.in",
+    "verification_status": "verified"
+  },
+  {
+    "id": "pest_dis_04",
+    "crop": "Paddy / Rice",
+    "type": "pest",
+    "name": "Yellow Stem Borer (Scirpophaga incertulas)",
+    "affected_stage": "Tillering to Heading",
+    "symptoms": "Drying of central shoot causing 'Dead Heart' during vegetative stage, and erect empty bleached panicles causing 'White Earhead' at reproductive stage.",
+    "possible_causes": [
+      "Lepidopteran larvae boring into inner stem tissues and feeding internally"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Pull affected dried central shoot gently; if it comes out easily with damaged internal base, it indicates stem borer.",
+    "prevention": "Clip seedling leaf tips before transplanting to destroy egg masses. Install pheromone traps with lure @ 8-10 traps/ha for monitoring.",
+    "verified_treatment": {
+      "organic_biological": "Release Trichogramma japonicum egg parasitoids @ 100,000/ha at weekly intervals 3 times starting from 30 days after transplanting.",
+      "chemical_recommended": "Apply Cartap hydrochloride 4% G @ 18-20 kg/ha or Chlorantraniliprole 18.5% SC @ 0.3 ml/L or Fipronil 5% SC @ 2.0 ml/L.",
+      "safety_instructions": "Maintain standing water of 2-3 cm for granular application; do not drain field for 48 hours."
+    },
+    "regional_notes": "Common across all southern rice-growing belts in Kharif and Rabi.",
+    "source_id": "ICAR_PORTAL",
+    "source_url": "https://icar.org.in",
+    "verification_status": "verified"
+  },
+  {
+    "id": "pest_dis_05",
+    "crop": "Cotton",
+    "type": "pest",
+    "name": "Pink Bollworm (Pectinophora gossypiella)",
+    "affected_stage": "Squaring to Boll Formation (60-150 days)",
+    "symptoms": "Rosetted flowers that fail to open properly ('rosette blooms'). Larvae bore into developing bolls, eating seeds and staining lint, leaving exit holes with frass.",
+    "possible_causes": [
+      "Lepidopteran pest feeding inside flower buds and bolls"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Examine freshly shed squares and inspect internal seeds of 20-day old bolls for pink-colored larvae.",
+    "prevention": "Strictly observe non-crop period; avoid ratoon cotton; plant refuge non-Bt border rows; install pheromone traps with gossyplure @ 5 traps/acre.",
+    "verified_treatment": {
+      "organic_biological": "Release Trichogramma bactrae @ 60,000/acre. Mass trapping using pheromone traps (15-20/acre) for mating disruption.",
+      "chemical_recommended": "If trap catches exceed 8 moths/trap/day for 3 consecutive days, spray Chlorantraniliprole 18.5% SC @ 0.3 ml/L or Emamectin benzoate 5% SG @ 0.5 g/L or Profenofos 50% EC @ 2.0 ml/L.",
+      "safety_instructions": "Rotate chemical modes of action to prevent insecticide resistance build-up."
+    },
+    "regional_notes": "Major challenge in Warangal, Adilabad (Telangana), Guntur (AP), and Belagavi (Karnataka).",
+    "source_id": "PJTSAU_PACKAGE",
+    "source_url": "https://pjtsau.edu.in",
+    "verification_status": "verified"
+  },
+  {
+    "id": "pest_dis_06",
+    "crop": "Chilli",
+    "type": "pest",
+    "name": "Black Thrips (Thrips parvispinus)",
+    "affected_stage": "Flowering & Early Fruiting",
+    "symptoms": "Distortion and upward curling of leaves, crinkling, scraping of floral organs leading to massive flower drop and scarring of fruit surface.",
+    "possible_causes": [
+      "Invasive thrips species thriving in dry warm conditions with low rainfall"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Tap flowers and growing buds over white paper; tiny black elongated moving insects confirm thrips presence.",
+    "prevention": "Install blue sticky traps (20-25 traps/acre) alongside yellow sticky traps; maintain field sanitation; spray border barrier crops with maize or sorghum.",
+    "verified_treatment": {
+      "organic_biological": "Spray Lecanicillium lecanii (entomopathogenic fungus) @ 5g/L or Spinosad 45% SC @ 0.3 ml/L.",
+      "chemical_recommended": "Spray Cyantraniliprole 10.26% OD @ 1.2 ml/L or Broflanilide 300 SC @ 0.1 ml/L or Tolfenpyrad 15% EC @ 2.0 ml/L alternately.",
+      "safety_instructions": "Avoid repeated sprays of same insecticide class. Spray in evening hours."
+    },
+    "regional_notes": "Highly prevalent across Guntur, Prakasam (AP), and Khammam, Warangal (Telangana).",
+    "source_id": "ANGRAU_GUIDES",
+    "source_url": "https://angrau.ac.in",
+    "verification_status": "verified"
+  },
+  {
+    "id": "pest_dis_07",
+    "crop": "Maize",
+    "type": "pest",
+    "name": "Fall Armyworm (Spodoptera frugiperda)",
+    "affected_stage": "Knee-high to Tasseling (Whorl stage)",
+    "symptoms": "Pin-hole and window-pane feeding on young leaves; extensive skeletonization and large irregular holes filled with sawdust-like wet fecal frass in central whorls.",
+    "possible_causes": [
+      "Noctuid invasive caterpillar voraciously feeding inside leaf whorls"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Unroll central damaged leaf whorl to spot caterpillar with characteristic four dark spots in square arrangement on 8th abdominal segment.",
+    "prevention": "Deep summer ploughing, synchronized community sowing, intercropping with pulses (cowpea/pigeonpea), seed treatment with Cyantraniliprole 19.8% + Thiamethoxam 19.8% FS (4ml/kg).",
+    "verified_treatment": {
+      "organic_biological": "Erect pheromone traps (5/acre); apply Metarhizium rileyi @ 5g/L or whorl application of dry sand + lime powder (9:1 ratio).",
+      "chemical_recommended": "Spray Chlorantraniliprole 18.5% SC @ 0.4 ml/L directed into central whorls or Emamectin benzoate 5% SG @ 0.4 g/L using hollow cone nozzle.",
+      "safety_instructions": "Direct pesticide nozzle into whorl rather than broad foliage surface."
+    },
+    "regional_notes": "Critical pest across Nizamabad, Karimnagar (Telangana), Davanagere (Karnataka), and Coimbatore (TN).",
+    "source_id": "ICAR_PORTAL",
+    "source_url": "https://icar.org.in",
+    "verification_status": "verified"
+  },
+  {
+    "id": "pest_dis_08",
+    "crop": "Groundnut",
+    "type": "disease",
+    "name": "Tikka Leaf Spot (Cercospora arachidicola / Phaeoisariopsis personata)",
+    "affected_stage": "Pegging to Pod Maturation (45-90 days)",
+    "symptoms": "Early leaf spot produces circular brown lesions with bright yellow halo. Late leaf spot produces dark brown to black circular spots without prominent halo on lower leaf surface, leading to severe defoliation.",
+    "possible_causes": [
+      "Fungal infection favored by prolonged leaf wetness, high humidity (>85%), and temperatures between 25-30°C"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Inspect leaf undersides; black carbonaceous fungal spore cushions distinguish late Tikka from nutritional scorch.",
+    "prevention": "Seed treatment with Carbendazim + Mancozeb (2g/kg); crop rotation with cereals; collect and burn crop residues after harvest.",
+    "verified_treatment": {
+      "organic_biological": "Foliar spray with Pseudomonas fluorescens (2g/L) or Neem seed extract (5%) at 15-day intervals.",
+      "chemical_recommended": "Spray Mancozeb 75% WP @ 2.0 g/L or Carbendazim 50% WP @ 1.0 g/L or Tebuconazole 25.9% EC @ 1.0 ml/L at disease onset and repeat after 14 days.",
+      "safety_instructions": "Ensure spray covers lower canopy where disease initiates."
+    },
+    "regional_notes": "Widespread across Anantapur, Kurnool (AP), and Kolar, Tumakuru (Karnataka).",
+    "source_id": "ANGRAU_GUIDES",
+    "source_url": "https://angrau.ac.in",
+    "verification_status": "verified"
+  },
+  {
+    "id": "pest_dis_09",
+    "crop": "Sugarcane",
+    "type": "disease",
+    "name": "Red Rot (Colletotrichum falcatum)",
+    "affected_stage": "Formative to Grand Growth phase",
+    "symptoms": "Discoloration and withering of third and fourth leaves, yellowing of crown, internal pith turns blood-red with characteristic interrupted white cross-bands and alcohol-like fermented odor upon splitting cane.",
+    "possible_causes": [
+      "Fungal disease spread through infected seed setts, irrigation water, and soil"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Split suspect standing cane longitudinally; reddish internal pith with white transverse patches is the definitive symptom.",
+    "prevention": "Select disease-free certified seed nursery setts; heat therapy (moist hot air treatment at 54°C for 2.5 hours); avoid ratooning infected fields; plant red rot resistant varieties (Co 86032, Co 0238 where notified).",
+    "verified_treatment": {
+      "organic_biological": "Sett treatment with Trichoderma viride culture (10g/L) and soil application enriched with FYM (5 kg/ha).",
+      "chemical_recommended": "Dip setts in Carbendazim 50% WP (1g/L) for 15 minutes before planting. No chemical cure exists for infected standing crop; promptly rogue out affected clumps.",
+      "safety_instructions": "Burn affected cane stools immediately; do not let irrigation water drain from infected into healthy plots."
+    },
+    "regional_notes": "Recorded in command areas of Tamil Nadu, Andhra Pradesh, and Karnataka.",
+    "source_id": "TNAU_AGRITECH",
+    "source_url": "https://agritech.tnau.ac.in",
+    "verification_status": "verified"
+  },
+  {
+    "id": "pest_dis_10",
+    "crop": "Onion",
+    "type": "disease",
+    "name": "Purple Blotch (Alternaria porri)",
+    "affected_stage": "Vegetative to Bulb Enlargement",
+    "symptoms": "Small, water-soaked lesions that turn brown to purplish with dark concentric rings, causing leaves to break at point of girdling.",
+    "possible_causes": [
+      "Fungal pathogen favored by warm humid conditions and frequent unseasonal rains"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: Purple-centered elliptical spots with yellow halos distinguish this from thrips feeding marks (which are silvery streaks).",
+    "prevention": "Good soil drainage, wider row spacing, certified disease-free sets, seed treatment with Thiram 3g/kg.",
+    "verified_treatment": {
+      "organic_biological": "Foliar spray with Trichoderma harzianum (5g/L) combined with sticky adjuvant (Triton/sticker).",
+      "chemical_recommended": "Spray Mancozeb 75% WP @ 2.5 g/L or Tebuconazole 25.9% EC @ 1.0 ml/L or Difenoconazole 25% EC @ 1.0 ml/L mixed with spreader/sticker (0.5 ml/L).",
+      "safety_instructions": "Always mix a sticker/spreader agent because waxy onion leaves shed spray droplets easily."
+    },
+    "regional_notes": "Common in Nashik (Maharashtra) and Hubballi, Chitradurga (Karnataka).",
+    "source_id": "UAS_BANGALORE",
+    "source_url": "https://uasbangalore.edu.in",
+    "verification_status": "verified"
+  },
+  {
+    "id": "cropcare_01",
+    "crop": "Paddy, Cotton, Beans",
+    "type": "disease",
+    "name": "Bacterial Blight",
+    "affected_stage": "Not specified",
+    "symptoms": "Water-soaked lesions on leaves; Blighting and drying of leaf tips; Streaks on leaf blades; Wilting of leaves.",
+    "possible_causes": [
+      "Bacterial species; spreads through contaminated seeds, soil and water"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Use disease-resistant rice varieties if available. Practice crop rotation and avoid planting rice in waterlogged conditions. Remove and destroy infected plant debris to prevent the spread of the bacteria.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "Not verified by ICAR/KVK. The CropCare notes mention: Apply copper-based bactericides to reduce bacterial populations. No dose or spray interval is given - read the product label and confirm with your nearest KVK before spraying.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  },
+  {
+    "id": "cropcare_02",
+    "crop": "Paddy, Wheat, Maize, Barley, Millet",
+    "type": "disease",
+    "name": "Blast",
+    "affected_stage": "Not specified",
+    "symptoms": "Blast lesions on leaves, stems,and grains; White to gray spores on lesions; Formation of dark spots on leaves; Premature drying of grains.",
+    "possible_causes": [
+      "Fungal infection (blast fungi); favoured by high humidity and warm temperatures"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Plant blast-resistant rice varieties. Improve drainage to reduce waterlogging, which favors fungal growth. Remove and destroy infected plant residues to prevent overwintering of the pathogen.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "Not verified by ICAR/KVK. The CropCare notes mention: Apply fungicides containing azoxystrobin or tricyclazole at the onset of symptoms. No dose or spray interval is given - read the product label and confirm with your nearest KVK before spraying.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  },
+  {
+    "id": "cropcare_03",
+    "crop": "Paddy, Maize, Soybean",
+    "type": "disease",
+    "name": "Sheath Blight",
+    "affected_stage": "Not specified",
+    "symptoms": "Dark brown lesions on leaf sheaths; White mycelium growth at the base of lesions; Lesions expand and merge, leading to plant death; Reduced tillering and yield.",
+    "possible_causes": [
+      "Fungus Rhizoctonia solani; warm, humid conditions; persists in soil and crop debris"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Plant resistant rice varieties and maintain proper spacing to improve air circulation. Remove infected plant debris and practice crop rotation to reduce disease pressure. Avoid excessive nitrogen fertilization, which can promote disease development.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "Not verified by ICAR/KVK. The CropCare notes mention: Apply fungicides containing azoxystrobin or tebuconazole during the early stages of infection. No dose or spray interval is given - read the product label and confirm with your nearest KVK before spraying.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  },
+  {
+    "id": "cropcare_04",
+    "crop": "Wheat, Barley, Coffee",
+    "type": "disease",
+    "name": "Leaf Rust",
+    "affected_stage": "Not specified",
+    "symptoms": "Rust-colored pustules on leaves, stems, and spikes; Yellowing and necrosis of affected tissues; Reduced photosynthesis and stunted growth; Reduced grain quality and yield.",
+    "possible_causes": [
+      "Fungal disease spread by windborne spores in humid conditions"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Plant rust-resistant wheat varieties. Remove volunteer wheat plants and weed hosts to reduce inoculum levels. Practice crop rotation to break disease cycles and minimize buildup of inoculum.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "Not verified by ICAR/KVK. The CropCare notes mention: Apply fungicides containing triazole or strobilurin compounds during the early stages of infection. No dose or spray interval is given - read the product label and confirm with your nearest KVK before spraying.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  },
+  {
+    "id": "cropcare_05",
+    "crop": "Banana, Plantain",
+    "type": "disease",
+    "name": "Black Sigatoka",
+    "affected_stage": "Not specified",
+    "symptoms": "Dark brown to black spots on leaves; Lesions coalesce, causing leaf yellowing and drying; Premature ripening and reduced bunch weight; Lowered resistance to wind damage.",
+    "possible_causes": [
+      "Fungus Pseudocercospora fijiensis; warm, humid conditions"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Remove and destroy heavily infected leaves to reduce inoculum levels. Maintain good airflow within the plantation by pruning and spacing plants appropriately. Avoid overhead irrigation to reduce leaf wetness and minimize disease spread.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "Not verified by ICAR/KVK. The CropCare notes mention: Apply fungicides containing azoxystrobin or propiconazole at regular intervals. No dose or spray interval is given - read the product label and confirm with your nearest KVK before spraying.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  },
+  {
+    "id": "cropcare_06",
+    "crop": "Potato, Tomato",
+    "type": "disease",
+    "name": "Late Blight",
+    "affected_stage": "Not specified",
+    "symptoms": "Water-soaked lesions on leaves, stems, and tubers; White to gray mold growth on lesions; Rapid wilting of foliage; Brown rot on tubers with a foul odor.",
+    "possible_causes": [
+      "Pathogen Phytophthora infestans; high humidity and moderate temperatures"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Remove and destroy infected plant parts to reduce disease spread. Practice crop rotation with non-host crops to break disease cycles. Avoid overhead irrigation and ensure proper plant spacing for improved air circulation.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "Not verified by ICAR/KVK. The CropCare notes mention: Apply fungicides containing chlorothalonil or mancozeb at regular intervals, especially during periods of high humidity. No dose or spray interval is given - read the product label and confirm with your nearest KVK before spraying.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  },
+  {
+    "id": "cropcare_07",
+    "crop": "Tomato, Potato, Chilli, Brinjal, Banana",
+    "type": "disease",
+    "name": "Bacterial Wilt",
+    "affected_stage": "Not specified",
+    "symptoms": "Wilting of leaves and stems; Yellowing and necrosis of lower leaves; Dark streaks on vascular tissues; Rapid decline and death of the plant.",
+    "possible_causes": [
+      "Bacteria, mainly Ralstonia solanacearum; contaminated soil, water and plant material"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Plant disease-resistant pepper or eggplant varieties. Remove and destroy infected plants promptly to prevent further spread. Practice crop rotation with non-susceptible crops. Manage soil moisture levels to avoid water stress, which can exacerbate symptoms.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "No chemical control is listed in the CropCare notes. Ask your nearest KVK.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  },
+  {
+    "id": "cropcare_08",
+    "crop": "Grapes, Cucumber, Lettuce, Soybean",
+    "type": "disease",
+    "name": "Downy Mildew",
+    "affected_stage": "Not specified",
+    "symptoms": "Yellow patches on upper leaf surface; White to grayish fuzz on the lower leaf surface; Leaf curling and distortion; Reduced fruit quality and yield.",
+    "possible_causes": [
+      "Oomycete pathogens (Plasmopara, Peronospora); cool, humid conditions"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Improve air circulation by spacing plants adequately and pruning to reduce foliage density. Avoid overhead irrigation and water plants at the base to minimize leaf wetness. Remove and destroy infected plant debris to reduce inoculum levels.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "Not verified by ICAR/KVK. The CropCare notes mention: Apply fungicides containing copper-based compounds or mancozeb at the first sign of symptoms. No dose or spray interval is given - read the product label and confirm with your nearest KVK before spraying.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  },
+  {
+    "id": "cropcare_09",
+    "crop": "Tomato, Banana, Chickpea, Cotton, Watermelon",
+    "type": "disease",
+    "name": "Fusarium Wilt",
+    "affected_stage": "Not specified",
+    "symptoms": "Wilting of lower leaves during the day; Yellowing and browning of leaves; Brown streaks on vascular tissues; Stunted growth and eventual plant death.",
+    "possible_causes": [
+      "Fungus Fusarium oxysporum; infected soil, water, seeds or contaminated tools"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Plant resistant tomato varieties if available. Practice soil solarization to reduce soilborne pathogens. Rotate crops with non-susceptible species to break disease cycles.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "Not verified by ICAR/KVK. The CropCare notes mention: Apply fungicides containing thiophanate-methyl or chlorothalonil preventively. No dose or spray interval is given - read the product label and confirm with your nearest KVK before spraying.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  },
+  {
+    "id": "cropcare_10",
+    "crop": "Vegetables, Fruits",
+    "type": "disease",
+    "name": "Powdery Mildew",
+    "affected_stage": "Not specified",
+    "symptoms": "White powdery patches on upper leaf surface; Yellowing and distortion of leaves; Reduced photosynthesis and plant vigor; Premature defoliation and reduced yield.",
+    "possible_causes": [
+      "Fungal disease; warm, dry conditions; airborne spores"
+    ],
+    "diagnosis_disclaimer": "Diagnostic Note: A spoken description can only suggest a possible disease. Show affected leaves to your nearest KVK or agriculture officer to confirm.",
+    "prevention": "Improve air circulation by spacing plants adequately and pruning to reduce foliage density. Remove and destroy heavily infected plant parts to reduce inoculum levels. Avoid overhead irrigation and water plants at the base to minimize leaf wetness.",
+    "verified_treatment": {
+      "organic_biological": "",
+      "chemical_recommended": "Not verified by ICAR/KVK. The CropCare notes mention: Apply fungicides containing sulfur or potassium bicarbonate at the first sign of symptoms. No dose or spray interval is given - read the product label and confirm with your nearest KVK before spraying.",
+      "safety_instructions": "Follow the product label, wear protective gear while spraying, and confirm the product and dose with a KVK or agriculture officer."
+    },
+    "regional_notes": "",
+    "source_id": "CROPCARE_NOTES",
+    "source_url": null,
+    "verification_status": "unverified_general"
+  }
+]
